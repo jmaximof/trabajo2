@@ -1,0 +1,48 @@
+ .titulo{
+  font-family: 'Freehand', cursive;
+ }
+ 
+ .my-5propio{
+    margin-bottom: 0px !important;
+    border-bottom: 0px !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+  }
+    .header{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .primercolor{
+    background-color: #7f96a9;
+  }
+  .segundocolor{
+    background-color:darkgray;
+    padding: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .iconos{
+    width: 60px;
+    height: 60px;
+  }
+  .imagenes{
+    width: 200px;
+    height: 140px;
+  }
+  .columna{
+    float: left;
+  }
+  .columna1{
+    padding: 0px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .p1{
+   padding-left: 18% !important;
+  }
+  .textcolor{
+    color: blue;
+    text-decoration: none;
+  }
+  
